@@ -13,4 +13,3 @@ Montfort, Nick and Ian Bogost. Racing the Beam: The Atari Video Computer System.
 	of a game. One of the most important aspects for my work is the section regarding Mystique’s pornographic games that
 	were created for the Atari VCS, in which they discuss rape fantasy and masturbatory games.
 	
-	sed 's/video/electronic/g' racingthebeam.txt > racingthebeammake.txt
